@@ -73,6 +73,10 @@ h1 {
   color: var(--text-color);
 }
 
+p {
+  margin-top: 2vh;
+}
+
 .username {
   font-family: 'Roboto Mono', monospace;
   font-weight: 400;
